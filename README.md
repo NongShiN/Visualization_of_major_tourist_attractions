@@ -1,4 +1,4 @@
-# Visualization_of_major_tourist_attractions-
+# Visualization of major tourist attractions
 Visualization of major tourist attractions in GimhaeSi
 
 ![f7da3223956b4c9c9393adc518fb6810mLbeyklmLwukB0C1-0](https://github.com/NongShiN/Visualization_of_major_tourist_attractions-/assets/44831566/bb9fd393-0619-4d1d-9b2e-7e02a18baae0)
